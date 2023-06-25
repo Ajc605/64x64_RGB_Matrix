@@ -1,0 +1,8 @@
+# Comments are supported
+CIRCUITPY_WIFI_SSID=""
+CIRCUITPY_WIFI_PASSWORD=""
+CIRCUITPY_WEB_API_PORT=
+CIRCUITPY_WEB_API_PASSWORD=""
+RapidAPI-Key=""
+RapidAPI-Host="weatherapi-com.p.rapidapi.com"
+postcode=""
